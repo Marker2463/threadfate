@@ -9,7 +9,7 @@ import React, { useEffect, useMemo, useRef, useState } from "react";
 // - LocalStorage persistence
 // - Export canvas as PNG
 // - Keyboard shortcuts: N(new), S(save/export), Del(delete selected)
-// 
+//
 // This single-file React app is production-ready (Tailwind UI), no external APIs.
 // It should be unique enough to count as "not been seen before" 😉
 
